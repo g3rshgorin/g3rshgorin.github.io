@@ -11,8 +11,6 @@ email: benjamin.dalziel@oregonstate.edu
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://g3rshgorin/github.io" # the base hostname & protocol for your site
 social:
-  google-scholar: https://scholar.google.com/citations?user=jxJ3lLgAAAAJ&hl=en
-  research-gate: https://www.researchgate.net/profile/Benjamin_Dalziel
   twitter: https://twitter.com/<username>
   github: https://github.com/<username>
   #linkedin-square: https://linkedin.com/in/<username>
