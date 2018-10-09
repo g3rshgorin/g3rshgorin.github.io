@@ -636,7 +636,6 @@ $baseurl: '{{ site.baseurl }}/images';
 				li {
 					display: block;
 					padding: (_size(element-margin) * 0.75) 0 0 0;
-					align-items: center;
 
 					&:first-child {
 						padding-top: 0;
@@ -1630,6 +1629,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		.inner {
 			@include vendor('display', 'flex');
 			max-width: 45em;
+			align-items: center;
 
 			header {
 				@include vendor('order', '1');
