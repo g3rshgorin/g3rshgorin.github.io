@@ -636,6 +636,7 @@ $baseurl: '{{ site.baseurl }}/images';
 				li {
 					display: block;
 					padding: (_size(element-margin) * 0.75) 0 0 0;
+					text-align: center;
 
 					&:first-child {
 						padding-top: 0;
@@ -1253,7 +1254,6 @@ $baseurl: '{{ site.baseurl }}/images';
 
 		&.style4 {
 			background-color: transparent;
-			text-align: center;
 		}
 
 		&.style5 {
