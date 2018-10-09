@@ -620,7 +620,6 @@ $baseurl: '{{ site.baseurl }}/images';
 				display: inline-block;
 				padding: 0 (_size(element-margin) * 0.75) 0 0;
 				vertical-align: middle;
-				margin: auto;
 
 				&:last-child {
 					padding-right: 0;
